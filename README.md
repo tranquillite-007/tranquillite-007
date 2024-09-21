@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I am in love with ;**
 
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tranquillite-007" alt="tranquillite-007" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-sinha-b346a7145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman sinha" height="30" width="40" /></a>
