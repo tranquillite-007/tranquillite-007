@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Game development**
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m learning **Unity**
 
 - 💬 Ask me about **WebDev, Django, Game Logics**
 
