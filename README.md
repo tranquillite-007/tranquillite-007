@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Game development**
+- 🔭 I’m currently working on **a cpp project to convert txt to html or we can say creating landing page using normal english**
 
 - 🌱 I’m learning **Unity**
 
