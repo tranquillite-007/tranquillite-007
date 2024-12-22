@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sinhaaman655@hotmail.com**
 
-- ⚡ Fun fact **I am in love with 👉;👈** it's a lame joke, i hate it when i forget to add **Semicolons**
+- ⚡ Fun fact **;👈** **Semicolons**
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tranquillite-007" alt="tranquillite-007" /></a> </p>
 
