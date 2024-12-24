@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **;👈** **Semicolons**
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=tranquillite-007" alt="tranquillite-007" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
