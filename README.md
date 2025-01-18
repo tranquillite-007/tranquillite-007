@@ -3,6 +3,12 @@
 ## About Me
 I'm a passionate developer from India, currently focused on enhancing my skills in game development and data structures. I enjoy tackling challenging projects and continuously learning new technologies.
 
+<p align="right">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://komarev.com/ghpvc/?username=tranquillite-007&label=Profile%20views&color=0e75b6&style=flat" alt="tranquillite-007" />
+    </a>
+</p>
+
 ## Current Work
 - 🔭 I’m currently working on a **C++ project**.
 - 🌱 I’m learning **Unity for Game Development** and practicing **Data Structures and Algorithms (DSA) using C++**.
