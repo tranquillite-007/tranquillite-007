@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aman Sinha
 
 ## About Me
-I'm a passionate developer from India, currently focused on enhancing my skills in game development and data structures. I enjoy tackling challenging projects and continuously learning new technologies.
+I'm a passionate developer from India, currently focused on enhancing my skills <!--- in game development and data structures -->. I enjoy tackling challenging projects and continuously learning new technologies.
 
 <p align="right">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
