@@ -5,8 +5,10 @@
     <img src="https://komarev.com/ghpvc/?username=tranquillite-007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVybHN5OHZ0MDdzc2d6cm1hdncydmdjNDhlbmFkOHhvaGc4bmxoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="60">
 
-💻 *Innovative software developer passionate about building scalable web applications, immersive game experiences, and full-stack solutions with modern technologies. Continuously learning and contributing to open-source projects.*
+💻 *"Versatile and self-driven software developer with strong foundations in C++, Python, and JavaScript. Hands-on experience with React, Next.js, Django, and Unity3D. Passionate about building real-world solutions across web, game development, and AI/ML domains."*
+
 
 ---
 
@@ -57,6 +59,15 @@
   <img src="https://cdn.worldvectorlogo.com/logos/blender.svg" alt="Blender" width="40" height="40"/>
   <img src="https://img.icons8.com/ios/50/000000/vercel.png" alt="Vercel" width="40" height="40"/>
 </div>
+
+### ⚙️ Concepts & Methodologies
+<div align="left" style="margin-bottom:20px;">
+   <img src="https://img.shields.io/badge/OOP-007ACC?style=for-the-badge" height="25"/>
+   <img src="https://img.shields.io/badge/MVC-FF69B4?style=for-the-badge" height="25"/>
+   <img src="https://img.shields.io/badge/REST_API-00BFFF?style=for-the-badge" height="25"/>
+   <img src="https://img.shields.io/badge/Agile-F7DF1E?style=for-the-badge" height="25"/>
+</div>
+
 
 ---
 ## 🚀 Projects Showcase
@@ -145,10 +156,16 @@
   <a href="https://linkedin.com/in/aman-sinha-b346a7145" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:sinhaaman655@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="mailto:sinhaaman655@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
+
+
+
 
 ---
 
