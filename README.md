@@ -74,6 +74,21 @@
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
+<!-- Project 0 -->
+<div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
+  <h3>react-clientside-pagination</h3>
+  <p>
+    <a href="https://github.com/tranquillite-007/react-clientside-pagination" target="_blank">Repo</a> | 
+    <a href="https://www.npmjs.com/package/react-clientside-pagination" target="_blank">Live</a>
+  </p>
+  <div style="display:flex; flex-wrap:wrap; gap:5px; margin-top:5px;">
+    <img src="https://img.shields.io/npm/v/react-clientside-pagination.svg?style=for-the-badge&logo=vite&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/npm/dt/react-clientside-pagination.svg?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/React-18%2B-61DAFB?style=for-the-badge&logo=vite&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+  </div>
+</div>
+
 <!-- Project 1 -->
 <div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
   <h3>Fictional IELTS Institute Landing Page</h3>
