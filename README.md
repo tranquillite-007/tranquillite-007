@@ -69,12 +69,15 @@
 </div>
 
 
+
+
+<!--
 ---
 ## 🚀 Projects Showcase
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-<!-- Project 0 -->
+Project 0
 <div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
   <h3>react-clientside-pagination</h3>
   <p>
@@ -88,8 +91,10 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
   </div>
 </div>
+-->
 
-<!-- Project 1 -->
+<!--
+Project 1
 <div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
   <h3>Fictional IELTS Institute Landing Page</h3>
   <p>
@@ -103,8 +108,10 @@
     <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25"/>
   </div>
 </div>
+-->
 
-<!-- Project 2 -->
+<!--
+Project 2
 <div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
   <h3>OTP & Google Auth Login System</h3>
   <p>
@@ -118,8 +125,10 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
   </div>
 </div>
+-->
 
-<!-- Project 3 -->
+<!--
+Project 3
 <div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
   <h3>Car Finder App</h3>
   <p>
@@ -132,8 +141,10 @@
     <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" height="25"/>
   </div>
 </div>
+-->
 
-<!-- Project 4 -->
+<!--
+Project 4
 <div style="border:1px solid #ddd; border-radius:15px; padding:15px; width:300px; background:#f9f9f9;">
   <h3>YouTube API React Native App</h3>
   <p>
@@ -147,6 +158,7 @@
     <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/>
   </div>
 </div>
+-->
 
 </div>
 
